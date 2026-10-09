@@ -8,7 +8,7 @@ Static one-page company website for **mikuremu** (https://mikuremu.jp), intended
 - `CNAME` – custom domain for GitHub Pages (`mikuremu.jp`)
 
 ## Contact email (PLACEHOLDER)
-`contact@mikuremu.jp` is a **placeholder**. It appears in exactly one place: the
+`info5050@mikuremu.jp` is a **placeholder**. It appears in exactly one place: the
 `<p class="email">` line in the Contact section of `index.html` (marked with a
 `CONTACT EMAIL` comment). Update both the `mailto:` link and the visible text
 there once the real mailbox is set up.
